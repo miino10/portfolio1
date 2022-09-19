@@ -1,0 +1,27 @@
+ <div class="card">
+                <div class="icon">
+                    <i class="fab fa-brands fa-react"></i>
+                </div>
+                <div class="info">
+                    <h3>React js</h3>
+                    <p>we have great experience</p>
+                </div>
+            </div>
+            <div class="card">
+                <div class="icon">
+                    <i class="fab fa-brands fa-python"></i>
+                </div>
+                <div class="info">
+                    <h3>Pythone</h3>
+                    <p>build your AI and data analaytic </p>
+                </div>
+            </div>
+             <div class="card">
+                <div class="icon">
+                    <i class="fab fa-brands fa-node"></i>
+                </div>
+                <div class="info">
+                    <h3> node js</h3>
+                    <p>build your Backend the scaleble technology and convenient</p>
+                </div>
+            </div>
